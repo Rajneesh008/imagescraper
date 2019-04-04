@@ -10,7 +10,7 @@ To run this project first make sure you have MongoDB in your machine.
 
 Next follow these steps.
 
-git clone https://github.com/raoalok/imgscrape or download repository on your machine.
+git clone https://github.com/Rajneesh008/imagescraper or download repository on your machine.
 
 Then install all the node dependencies using ' npm install '*
 
